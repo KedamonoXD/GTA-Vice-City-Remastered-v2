@@ -51,4 +51,6 @@ Particle HD: https://www.mediafire.com/file/2cw27279e2wkxby/%2528VC%2529_Particl
 
 Fijo de las ventanas después de la explosión: https://gamemodding.com/es/gta-vice-city/scripts/74009-fiks-okon-posle-vzryva.html
 
+Mapa en el menú: https://www.mixmods.com.br/2022/04/iii-vc-menu-map-radar/
+
 Interfaz HD+10th Aniversary Icons: https://www.mediafire.com/file/0ymmmdg0kqysiuq/%255BVC%255D_Interfaz_HD.rar/file
